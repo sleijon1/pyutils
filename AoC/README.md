@@ -15,6 +15,8 @@ Running: *aoc-input.py 2017 18 -ft py*
 Creates:
 ```
 day18
-| day18.py
-| input.txt (Contains personal input)
+|-- day18.py
+|-- input.txt (Contains personal input)
 ```
+
+
