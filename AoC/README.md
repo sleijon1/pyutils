@@ -10,7 +10,8 @@ To get your cookie:
 
 Then run the script in the directory where you want to keep your solution and input.
 
-Running: *aoc-input.py 2017 18 -ft py*
+Running: *aoc-input.py 2017 18 -ft py* 
+
 Creates:
 ```
 day18
